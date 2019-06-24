@@ -10,14 +10,6 @@
 
 ### javascript
 
-####       ES6
-
-#####               [遍历器Iterator](https://github.com/GIScyw/blog/blob/master/js/ES6/%E9%81%8D%E5%8E%86%E5%99%A8Iterator.md)
-
-#####               [生成器Generator](https://github.com/GIScyw/blog/blob/master/js/ES6/%E7%94%9F%E6%88%90%E5%99%A8Generator.md)
-
-####        JavaScript事件机制
-
 #####                [JavaScript事件循环](https://github.com/GIScyw/blog/blob/master/js/JavaScript%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6/JavaScript%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF.md)
 
 #####                [JavaScript线程机制与事件机制](https://github.com/GIScyw/blog/blob/master/js/JavaScript%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6/JavaScript%E7%BA%BF%E7%A8%8B%E6%9C%BA%E5%88%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6.md)
@@ -35,6 +27,12 @@
 ##### 			   [闭包](https://github.com/GIScyw/blog/blob/master/js/%E9%97%AD%E5%8C%85.md)
 
 ##### 			   [移动端适配](https://github.com/GIScyw/blog/blob/master/js/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%80%82%E9%85%8D.md)
+
+### ES6
+
+#####               [遍历器Iterator](https://github.com/GIScyw/blog/blob/master/js/ES6/%E9%81%8D%E5%8E%86%E5%99%A8Iterator.md)
+
+#####               [生成器Generator](https://github.com/GIScyw/blog/blob/master/js/ES6/%E7%94%9F%E6%88%90%E5%99%A8Generator.md)
 
 ### 框架
 
